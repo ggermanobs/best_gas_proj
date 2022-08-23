@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Projeto</string>
+    <string name="combuplus">CombuPlus</string>
+    <string name="limpar">Limpar</string>
+    <string name="calcular">Calcular</string>
+    <string name="pre_o_da_gasolina">Preço da Gasolina :</string>
+    <string name="pre_o_do_etanol">Preço do Etanol :</string>
+    <string name="melhor_oferta">Melhor Oferta :</string>
+</resources>
